@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "802433738700",
+    "firebase_url": "https://rayanalmudawah-200203-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rayanalmudawah-200203",
+    "storage_bucket": "rayanalmudawah-200203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802433738700:android:d17d79cc8875e7556a9f69",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802433738700-99u5ub0h37l2pgcng3qh3i9m9u206odo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDux669rw8uGAwSkIwEOqWjuj9GzSADGWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802433738700-99u5ub0h37l2pgcng3qh3i9m9u206odo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
